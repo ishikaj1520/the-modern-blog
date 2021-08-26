@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/the-modern-blog/static/css/main.05d5ff72.chunk.css",
+    "main.js": "/the-modern-blog/static/js/main.8bf4dbfe.chunk.js",
+    "main.js.map": "/the-modern-blog/static/js/main.8bf4dbfe.chunk.js.map",
+    "runtime-main.js": "/the-modern-blog/static/js/runtime-main.8d39b529.js",
+    "runtime-main.js.map": "/the-modern-blog/static/js/runtime-main.8d39b529.js.map",
+    "static/js/2.0d80b949.chunk.js": "/the-modern-blog/static/js/2.0d80b949.chunk.js",
+    "static/js/2.0d80b949.chunk.js.map": "/the-modern-blog/static/js/2.0d80b949.chunk.js.map",
+    "index.html": "/the-modern-blog/index.html",
+    "static/css/main.05d5ff72.chunk.css.map": "/the-modern-blog/static/css/main.05d5ff72.chunk.css.map",
+    "static/js/2.0d80b949.chunk.js.LICENSE.txt": "/the-modern-blog/static/js/2.0d80b949.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d39b529.js",
+    "static/js/2.0d80b949.chunk.js",
+    "static/css/main.05d5ff72.chunk.css",
+    "static/js/main.8bf4dbfe.chunk.js"
+  ]
+}
